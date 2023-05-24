@@ -9,7 +9,7 @@
 
 
 ### Description
-A user - command line interactive music database of popular songs loaded from a [csv file from kaggle](https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year).
+A user - command line interactive music database of popular songs loaded from a [csv file from kaggle](https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year) into a red black tree data structure.
 
 #### Demo run:
 ![image of a demo run of the interactive music playlist databsase](https://github.com/fati-m/InteractiveMusicDatabase/blob/6577cfccfbb1d52e6d3cd7ea7787df02c6deaaa1/demo-run.png)
